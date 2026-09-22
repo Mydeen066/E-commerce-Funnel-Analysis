@@ -7,13 +7,13 @@ funnel_analysis.sql — All analysis queries: funnel stage conversion, conversio
 funnel_analysis_findings.md — Write-up of the results with commentary.
 user_events.csv — Source data.
 
-## Tools Used
+# Tools Used
 
 - MySQL
 - SQL
 - GitHub
 
-## Analysis Performed
+# Analysis Performed
 
 1. Funnel Conversion Analysis
 2. Conversion Rate by Traffic Source
