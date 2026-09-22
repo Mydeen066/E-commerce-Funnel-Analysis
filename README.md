@@ -21,8 +21,8 @@ user_events.csv — Source data.
 4. Revenue Analysis
 
 # Key findings
-Overall funnel conversion (view → purchase): 16.5%. The largest drop-off is at the very top: only 31% of visitors ever add an item to cart. Every stage after that converts at 71%+.
-Email is the highest-converting channel by far (33.9% purchase conversion) despite being the smallest by volume. Social drives the most traffic but converts worst (6.9%).
-Purchases happen fast — users who buy take ~25 minutes on average from first page view to completed order.
+- Overall funnel conversion (view → purchase): 16.5%. The largest drop-off is at the very top: only 31% of visitors ever add an item to cart. Every stage after that converts at 71%+.
+- Email is the highest-converting channel by far (33.9% purchase conversion) despite being the smallest by volume. Social drives the most traffic but converts worst (6.9%).
+- Purchases happen fast — users who buy take ~25 minutes on average from first page view to completed order.
 Revenue per visitor: $17.60, driven by an average order value of $106.51 across 826 orders totaling $87,975.11.
 
