@@ -2,7 +2,7 @@ SELECT * FROM user_events;
 
 SELECT DISTINCT COUNT(user_id) AS users FROM user_events;
 
-SELECT DISTINCT COUNT(user_id) AS users FROM user_events GROUP BY event_type;
+SELECT event_type, COUNT(DISTINCT user_id) AS users  FROM user_events GROUP BY event_type ORDER BY users DESC;
 
 -- funnel stages, conversion rate
 WITH stages AS(
